@@ -1,0 +1,15 @@
+ td {
+    background: #324768; color: white;
+    width: 35px;
+   height: 70px;
+   text-align: center; 
+ }
+ 
+ .hide {
+   visibility: collapse;
+ }
+ 
+ table {
+   border: 6px solid #324768;
+ }
+ 

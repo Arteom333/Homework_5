@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .container {
+    display:table;
+    width: 700px ;
+    height: 350px ;
+    margin: 0 auto;
+    border: 5px solid #324768 ;
+    background-color: #324768;
+    
+    
+  }
+  
+  .half {
+    width: 50%;
+    height: 50%;
+  }
+  
+  .half-width {
+    width: 50%;
+    height: 100%;
+  }
+  
+  .left {
+    float: left;
+  }
+  
+  .right {
+    float:right;
+  }
+  
+  .third {
+    width: 33.3%;
+    height: 33.3%;
+  }
+  
+  .cell-par {
+    border: 2px solid white;
+    background-color: #324768;
+    color: white;
+    font-size: 20px;
+    text-align:center;
+    display:inline-block;
+    
+  }
+  
+  p {
+    margin: 0;
+    position:relative;
+    top: 41%;
+    left: 2%;
+      
+  }
+  
